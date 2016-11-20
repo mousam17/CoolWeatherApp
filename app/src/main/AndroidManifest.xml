@@ -36,7 +36,7 @@
         </activity>
 		
 		 <activity
-            android:name=".NewettingsActivity"
+            android:name=".NewSettingsActivity"
             android:theme="@style/SettingTheme"
             android:parentActivityName=".MainActivity">
             <meta-data
