@@ -36,23 +36,13 @@
         </activity>
 		
 		 <activity
-            android:name=".NeSettingsActivity"
+            android:name=".NewSettingsActivity"
             android:theme="@style/SettingTheme"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-		
-		<activity
-            android:name=".CopyNewSettingsActivity"
-            android:theme="@style/SettingTheme"
-            android:parentActivityName=".MainActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
-        </activity>
-		
 		
         
         <provider
