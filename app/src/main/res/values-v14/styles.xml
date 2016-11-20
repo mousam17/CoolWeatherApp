@@ -1,0 +1,15 @@
+<resources>
+
+
+    <style name="SettingTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.v14.coolweather.NoTitle</item>
+
+    </style>
+
+    <style name="ActionBar.v14.coolweather.NoTitle" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/sunshine_blue</item>
+        <item name="android:height">56dp</item>
+    </style>
+
+
+</resources>
